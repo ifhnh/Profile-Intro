@@ -1,16 +1,20 @@
-### Hi there 👋
+ # Hi!Thanks for visiting my Github profile! 👋 Anyways, who is ifhana? 👀
 
-<!--
-**ifhana/ifhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♀️ An Aspiring Junior Business Analyst/Data Analyst wanting to jump into technology consulting. I am a data and analytics practitioner fully equipped in Python, SQL, PowerBI, cloud services (Azure, AWS),database management and Agile methodology.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Enhancing proficiency in data analysis with a focus on SQL, mastering data visualization techniques using PowerBI, and gaining expertise in implementing AI solutions on the Azure platform.
+
+✅ Actively seeking opportunities to enhance my communication skills and explore avenues for effective collaboration.
+
+✅ Studying for the Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution.
+
+✅ Completing the Datacamp course on SQL Fundamentals.
+
+
+## 📫 How to Reach Me
+
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/ifarhanah/)
+
+Let's connect and explore the possibilities! I'm open to discussions, collaborations, and new opportunities.🚀
