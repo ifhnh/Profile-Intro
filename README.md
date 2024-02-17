@@ -17,4 +17,4 @@
 
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/ifarhanah/)
 
-Let's connect and explore the possibilities! I'm open to discussions, collaborations, and new opportunities.🚀
+Let's connect and explore the possibilities! I'm open to discussions, collaborations, and new opportunities!🚀
