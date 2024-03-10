@@ -1,4 +1,6 @@
- # Hi!Thanks for visiting my Github profile! 👋 Anyways, who is ifhana? 👀
+<p align="center">
+# Hi!👋, I'm Farhanah
+</p>
 
 🙋‍♀️ An aspiring Junior Business Analyst/Data Analyst wanting to jump into Technology Consulting. I am a data and analytics practitioner fully equipped in Python, SQL, PowerBI, cloud services (Azure, AWS),database management and Agile methodology. 
 
