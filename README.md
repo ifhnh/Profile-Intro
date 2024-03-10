@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## Passionate about data solutions and got roped into learning cloud technology
+## Passionate about data solutions and accidentally stumbled into the cloud technology
 
 </div>
 
